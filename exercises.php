@@ -116,3 +116,14 @@ if (consumir($hay,$numconsumi) >= 1) {
 }
 */
 
+
+https://platzi.com/comunidad/retos-de-programacion-para-cualquier-lenguaje-segundo-nivel-condicionales/
+
+https://platzi.com/comunidad/retos-de-programacion-para-cualquier-lenguaje-tercer-nivel-strings/
+
+
+https://platzi.com/comunidad/retos-de-programacion-en-cualquier-lenguaje-cuarto-nivel-matematicas/
+
+https://platzi.com/comunidad/retos-de-programacion-en-cualquier-lenguaje-quinto-nivel-ciclo-for/
+
+https://platzi.com/comunidad/retos-de-programacion-en-cualquier-lenguaje-sexto-nivel-ciclo-while-2/
